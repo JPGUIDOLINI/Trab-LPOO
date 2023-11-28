@@ -1,0 +1,9 @@
+Chevrolet Onix Plus,ABC123,seda,Disponivel
+Volkswagen Voyage,ABC456,seda,Disponivel
+Fiat Cronos,ABC789,seda,Disponivel
+Chevrolet Tracker,MCA123,suv,Disponivel
+Jeep Compass,MCA456,suv,Disponivel
+Volkswagen T-Cross,MCA786,suv,Disponivel
+Ford Mustang,JDO123,sport,Disponivel
+BMW M4, JDO456,sport,Disponivel
+Porsche Taycan,JDO789,sport,Disponivel
